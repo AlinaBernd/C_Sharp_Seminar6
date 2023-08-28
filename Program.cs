@@ -66,4 +66,3 @@ Console.Write("Input b2 of the second line: ");
 double unknownB2 = Convert.ToInt32(Console.ReadLine());
 TheIntersectionOfTwoLines(unknownK1, unknownK2, unknownB1, unknownB2);
 
-// Доп. задача
